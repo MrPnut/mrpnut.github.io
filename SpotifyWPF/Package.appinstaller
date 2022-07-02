@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <AppInstaller Uri="https://mrpnut.github.io/SpotifyWPF/Package.appinstaller" Version="1.0.0.14" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
-  <MainBundle Name="FooTestingWhat" Version="1.0.0.14" Publisher="{Publisher}" Uri="{MainPackageUri}" />
+  <MainBundle Name="SpotifyWPF" Version="1.0.0.14" Publisher="ncsoftworks.com" Uri="https://ncavallo33.visualstudio.com/_apis/resources/Containers/3990549/drop?itemPath=drop%2FSpotifyWPF.msix" />
   <UpdateSettings>
     <OnLaunch HoursBetweenUpdateChecks="0" />
   </UpdateSettings>
